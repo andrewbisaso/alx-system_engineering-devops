@@ -1,2 +1,2 @@
-#!/bin/bash 7-movethatfile 8-firstdelete
+#!/bin/bash
 mkdir /tmp/my_first_directory
